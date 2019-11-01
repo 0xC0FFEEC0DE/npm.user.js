@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         npm.user.js
+// @name         npm-user-js
 // @namespace    npm-user-js
 // @version      0.1
 // @description  Load npm packages on any website from browser console
